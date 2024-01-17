@@ -298,3 +298,7 @@ height: 200px;
   background-color: #da7426;
 }
 
+.carousel-container {
+  margin: 0 auto; 
+  max-width: 500px; 
+}
